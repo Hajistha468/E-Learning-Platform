@@ -23,7 +23,7 @@ A full-stack MERN application delivering a scalable, interactive learning experi
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/e-learning-platform.git
+git clone https://github.com/Hajistha468/E-Learning-Platform.git
 cd e-learning-platform/backend
 npm install
 # Setup .env (Mongo URI, JWT_SECRET)
